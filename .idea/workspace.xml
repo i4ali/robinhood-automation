@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9456fe02-80d4-4092-8132-2456a9569ded" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zHDAohbV2jcQFfe8qSKHJc9133" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.datacollection">
+    <configuration name="datacollection" type="PythonConfigurationType" factoryName="Python">
+      <module name="robinhood-automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datacollection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="robinhood-automation" />
+      <option name="INTERPRETER_OPTIONS" value="-W ignore" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.datacollection" />
+      <item itemvalue="Python.main" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9456fe02-80d4-4092-8132-2456a9569ded" name="Default Changelist" comment="" />
+      <created>1633795978578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633795978578</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1827" y="395" key="#Notifications" timestamp="1634227142562">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state x="1827" y="395" key="#Notifications/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1634227142562" />
+    <state x="1609" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633924418378">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state x="1609" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1633924418378" />
+    <state x="1944" y="408" key="#datacollection" timestamp="1635179482455">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state x="1944" y="408" key="#datacollection/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1635179482455" />
+    <state x="1836" y="408" key="#main" timestamp="1634316593027">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state x="1836" y="408" key="#main/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1634316593027" />
+    <state x="1899" y="487" width="820" height="490" key="EnvironmentVariablesDialog" timestamp="1633896324653">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state x="1899" y="487" width="820" height="490" key="EnvironmentVariablesDialog/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1633896324653" />
+    <state x="2041" y="490" key="FileChooserDialogImpl" timestamp="1635356298336">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state x="2041" y="490" key="FileChooserDialogImpl/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1635356298336" />
+    <state width="2321" height="684" key="GridCell.Tab.0.bottom" timestamp="1635429588317">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="2321" height="684" key="GridCell.Tab.0.bottom/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1635429588317" />
+    <state width="2321" height="684" key="GridCell.Tab.0.center" timestamp="1635429588316">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="2321" height="684" key="GridCell.Tab.0.center/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1635429588316" />
+    <state width="2321" height="684" key="GridCell.Tab.0.left" timestamp="1635429588316">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="2321" height="684" key="GridCell.Tab.0.left/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1635429588316" />
+    <state width="2321" height="684" key="GridCell.Tab.0.right" timestamp="1635429588317">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="2321" height="684" key="GridCell.Tab.0.right/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1635429588317" />
+    <state width="2321" height="680" key="GridCell.Tab.1.bottom" timestamp="1633923791493">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="2321" height="680" key="GridCell.Tab.1.bottom/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1633923791493" />
+    <state width="2321" height="680" key="GridCell.Tab.1.center" timestamp="1633923791493">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="2321" height="680" key="GridCell.Tab.1.center/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1633923791493" />
+    <state width="2321" height="680" key="GridCell.Tab.1.left" timestamp="1633923791493">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="2321" height="680" key="GridCell.Tab.1.left/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1633923791493" />
+    <state width="2321" height="680" key="GridCell.Tab.1.right" timestamp="1633923791493">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="2321" height="680" key="GridCell.Tab.1.right/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1633923791493" />
+    <state x="1762" y="368" key="SettingsEditor" timestamp="1635356303070">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state x="1762" y="368" key="SettingsEditor/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1635356303070" />
+    <state width="1171" height="707" key="XDebugger.FullValuePopup" timestamp="1633893315152">
+      <screen x="0" y="25" width="3440" height="1415" />
+    </state>
+    <state width="1171" height="707" key="XDebugger.FullValuePopup/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1633893315152" />
+    <state x="1005" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1637092975199">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="1005" y="440" key="com.intellij.ide.util.TipDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1637092975199" />
+    <state x="1930" y="561" key="com.intellij.ide.util.TipDialog/0.25.3440.1415/-1792.25.1792.1095@0.25.3440.1415" timestamp="1634664966821" />
+  </component>
+</project>
