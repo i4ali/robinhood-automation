@@ -8,7 +8,7 @@ df_positions = pd.read_csv('open_positions.csv')
 df_stocks = pd.read_csv('completed_stocks.csv')
 
 
-# options short position calculations
+# options
 df_filtered_short_positions = df_options[(df_options['opening_strategy'] != 'long_put') & (df_options['opening_strategy'] != 'long_call') & (
         df_options['closing_strategy'] != 'long_put') & (df_options['closing_strategy'] != 'long_call')]
 df_filtered_short_positions_instrument = df_filtered_short_positions[
@@ -30,7 +30,7 @@ total_credit_options = df_filtered_short_positions_instrument_credit['total_pric
 total_debit_options = df_filtered_short_positions_instrument_debit['total_price_debit'].sum() * 100
 
 
-# average stock price
+# stocks
 df_stocks_filtered_ticker = df_stocks[
     df_stocks['symbol'] == ticker.upper()]
 
@@ -48,14 +48,7 @@ total_stocks_bought = df_stocks_filtered_ticker_buy['quantity'].sum()
 total_credit_stocks = df_stocks_filtered_ticker_sell['total_price_credit'].sum()
 
 
-# # open positions calculations
-# df_filtered_open_position = df_positions[df_positions['symbol'] == ticker.upper()]
-# if len(df_filtered_open_position) > 0:
-#     total_cost_of_owning_ticker = \
-#         (df_filtered_open_position['average_price'] * df_filtered_open_position['quantity']).values[0]
-# else:
-#     total_cost_of_owning_ticker = None
-
+# summary
 pnl_options_selling = total_credit_options - total_debit_options
 pnl_stocks = total_credit_stocks - total_debit_stocks
 average_cost_stock = total_debit_stocks / total_stocks_bought

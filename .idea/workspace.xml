@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9456fe02-80d4-4092-8132-2456a9569ded" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/robinhood-automation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/robinhood-automation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9456fe02-80d4-4092-8132-2456a9569ded" name="Default Changelist" comment="fully working P/L report on each ticker">
       <change beforePath="$PROJECT_DIR$/completed_options.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/completed_stocks.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/datacollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/datacollection.py" afterDir="false" />
@@ -98,6 +95,14 @@
       <option name="presentableId" value="Default" />
       <updated>1633795978578</updated>
     </task>
+    <task id="LOCAL-00001" summary="fully working P/L report on each ticker">
+      <created>1638477858803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638477858803</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,5 +116,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fully working P/L report on each ticker" />
+    <option name="LAST_COMMIT_MESSAGE" value="fully working P/L report on each ticker" />
   </component>
 </project>
